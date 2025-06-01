@@ -1,0 +1,5 @@
+  GNU nano 7.2                                                                                dataku.sh                                                                                         echo "Menampikan isi file dataku.sh:"
+echo "Tugas Kuliah.txt"
+echo "Catatan Harian.txt"
+echo "Agenda Harian.txt"
+echo "Pengeluaran Bulanan.txt"

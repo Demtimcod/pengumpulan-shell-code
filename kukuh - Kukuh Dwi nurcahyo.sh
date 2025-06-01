@@ -1,0 +1,5 @@
+echo "Menampilkan isi file kukuh.sh:"
+echo "Tugas Kuliah.txt"
+echo "Tugas Praktikum.txt"
+echo "Tugas Kelompok.txt"
+echo "Pembayaran.txt"
